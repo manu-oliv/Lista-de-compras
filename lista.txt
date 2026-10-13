@@ -1,7 +1,7 @@
 Preciso comprar:
 
-maça
-abacaxi
-goiaba
+MAÇA
+ABACAXI
+GOIABA
 
 Essa é minha lista de compras
